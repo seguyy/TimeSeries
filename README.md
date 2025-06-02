@@ -14,3 +14,7 @@ By applying time series forecasting methods, we can answer key questions:
 Understanding these trends is crucial for climate scientists, policymakers, and environmental agencies to take informed action in mitigating climate change effects.
 
 Data Set is obtained from the Our World in Data's website, which can be found at: https://ourworldindata.org/grapher/monthly-upper-ocean-heat?time=2010-02-15..latest
+
+
+
+![image](https://github.com/user-attachments/assets/7cdb402b-6620-4e4c-b4bf-44815122bdb5)
